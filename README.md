@@ -1,7 +1,13 @@
-### Hi there 👋
+## 👋 Hi there!
 
-<!--
-**bambrow/bambrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Weiqiang (Brandon) Li. Please feel free to check my personal [blog](https://bambrow.github.io).
+
+## &#x1f4c8; GitHub Stats
+
+[![Bambrow's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambrow&hide=html,jupyter%20notebook&langs_count=4&theme=tokyonight)](https://github.com/bambrow/bambrow)
+
+[![Bambrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambrow&show_icons=true&line_height=35&count_private=true&&hide=prs,issues,contribs&theme=tokyonight)](https://github.com/bambrow/bambrow)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
