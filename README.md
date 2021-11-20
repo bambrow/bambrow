@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Weiqiang (Brandon) Li. Please feel free to check my personal [blog](https://bambrow.github.io).
+My name is Weiqiang (Brandon) Li and I am a software development engineer mainly focusing on big data technologies. Please feel free to check my personal [blog](https://bambrow.github.io) (in Chinese).
 
 ## 🔧 Technologies & Tools
 
@@ -9,7 +9,7 @@ My name is Weiqiang (Brandon) Li. Please feel free to check my personal [blog](h
 ![](https://img.shields.io/badge/-macOS-brightgreen?style=flat-square&logo=apple&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Windows-brightgreen?style=flat-square&logo=windows&logoColor=white&labelColor=grey)
 
-#### Language:
+#### Programming Languages:
 ![](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Scala-blue?style=flat-square&logo=scala&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=grey)
@@ -32,7 +32,7 @@ My name is Weiqiang (Brandon) Li. Please feel free to check my personal [blog](h
 ![](https://img.shields.io/badge/-Spring_Boot-blueviolet?style=flat-square&logo=spring-boot&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Maven-blueviolet?style=flat-square&logo=apache-maven&logoColor=white&labelColor=grey)
 
-#### Editor:
+#### Editors:
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-orange?style=flat-square&logo=intellij-idea&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Visual_Studio_Code-orange?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Markdown-orange?style=flat-square&logo=markdown&logoColor=white&labelColor=grey)
