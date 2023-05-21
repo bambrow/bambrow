@@ -21,9 +21,13 @@ My name is Weiqiang (Brandon) Li and I am a software development engineer mainly
 ![](https://img.shields.io/badge/-Hive-blue?style=flat-square&logo=apache-hive&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Spark-blue?style=flat-square&logo=apache-spark&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-ZooKeeper-blue?style=flat-square&logo=apache&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-Elasticsearch-blue?style=flat-square&logo=elasticsearch&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Kafka-blue?style=flat-square&logo=apache-kafka&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-Flink-blue?style=flat-square&logo=apache-flink&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-Doris-blue?style=flat-square&logo=apache&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Oozie-blue?style=flat-square&logo=apache&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Trino-blue?style=flat-square&logo=trino&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-ClickHouse-blue?style=flat-square&logo=clickhouse&logoColor=white&labelColor=grey)
 
 #### Tools:
 ![](https://img.shields.io/badge/-Docker-blueviolet?style=flat-square&logo=docker&logoColor=white&labelColor=grey)
@@ -37,8 +41,10 @@ My name is Weiqiang (Brandon) Li and I am a software development engineer mainly
 ![](https://img.shields.io/badge/-Visual_Studio_Code-orange?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-Markdown-orange?style=flat-square&logo=markdown&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-LaTeX-orange?style=flat-square&logo=latex&logoColor=white&labelColor=grey)
-![](https://img.shields.io/badge/-GoLand-orange?style=flat-square&logo=goland&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-PyCharm-orange?style=flat-square&logo=pycharm&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-GoLand-orange?style=flat-square&logo=goland&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-PhpStorm-orange?style=flat-square&logo=phpstorm&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-DaraGrip-orange?style=flat-square&logo=datagrip&logoColor=white&labelColor=grey)
 
 ## &#x1f4c8; GitHub Stats
 
