@@ -44,7 +44,7 @@ My name is Weiqiang (Brandon) Li and I am a software development engineer mainly
 ![](https://img.shields.io/badge/-PyCharm-orange?style=flat-square&logo=pycharm&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-GoLand-orange?style=flat-square&logo=goland&logoColor=white&labelColor=grey)
 ![](https://img.shields.io/badge/-PhpStorm-orange?style=flat-square&logo=phpstorm&logoColor=white&labelColor=grey)
-![](https://img.shields.io/badge/-DaraGrip-orange?style=flat-square&logo=datagrip&logoColor=white&labelColor=grey)
+![](https://img.shields.io/badge/-DataGrip-orange?style=flat-square&logo=datagrip&logoColor=white&labelColor=grey)
 
 ## &#x1f4c8; GitHub Stats
 
